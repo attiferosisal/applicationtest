@@ -3,6 +3,7 @@ kind: Pod
                     
 metadata:          
   name: webserver15
+  namespace: default
 spec:              
   containers:
     - name: webserver15

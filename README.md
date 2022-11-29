@@ -1,0 +1,1 @@
+kubectl exec --stdin --tty nginx-deployment-6c8b449b8f-v8kxj -- /bin/bash
